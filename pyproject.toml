@@ -10,6 +10,7 @@ python = "^3.11"
 django = "^4.2.4"
 psycopg2 = "^2.9.7"
 pandas = "^2.0.3"
+pillow = "^10.0.0"
 
 [tool.poetry.group.dev.dependencies]
 Django = "^4.2.4"
